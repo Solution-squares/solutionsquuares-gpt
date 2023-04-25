@@ -12,7 +12,6 @@ auto_gpt_workspace/*
 azure.yaml
 ai_settings.yaml
 last_run_ai_settings.yaml
-.vscode
 .idea/*
 auto-gpt.json
 log.txt
@@ -163,3 +162,7 @@ openai/
 
 # news
 CURRENT_BULLETIN.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
